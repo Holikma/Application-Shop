@@ -13,7 +13,7 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.BackColor = Color.Red;
+            this.BackColor = Color.Blue;
         }
     }
 }
